@@ -1,0 +1,39 @@
+            <!-- Content Team ------------------------------ -->
+            <div class="content-teams">
+                <!-- จัดการ grid -->
+                <div class="content-teams-grid">
+                    <!-- จัดการ item แต่ละตัวใน grid -->
+                    <div class="content-teams-item">
+                        <img src="https://fakeimg.pl/225x225" alt="">
+                        <h2>Your Name</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci dignissimos neque odio iusto illum voluptatem.</p>
+                        <a href="#">View profile >></a>
+                    </div>
+                    
+                    <!-- จัดการ item แต่ละตัวใน grid -->
+                    <div class="content-teams-item">
+                        <img src="https://fakeimg.pl/225x225" alt="">
+                        <h2>Your Name</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci dignissimos neque odio iusto illum voluptatem.</p>
+                        <a href="#">View profile >></a>
+                    </div>
+
+                    <!-- จัดการ item แต่ละตัวใน grid -->
+                    <div class="content-teams-item">
+                        <img src="https://fakeimg.pl/225x225" alt="">
+                        <h2>Your Name</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci dignissimos neque odio iusto illum voluptatem.</p>
+                        <a href="#">View profile >></a>
+                    </div>
+
+                    <!-- จัดการ item แต่ละตัวใน grid -->
+                    <div class="content-teams-item">
+                        <img src="https://fakeimg.pl/225x225" alt="">
+                        <h2>Your Name</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci dignissimos neque odio iusto illum voluptatem.</p>
+                        <a href="#">View profile >></a>
+                    </div>
+
+                </div>
+            </div>
+            <!-- Content Team ------------------------------ -->
